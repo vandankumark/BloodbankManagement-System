@@ -11,4 +11,6 @@ using passwords, phone numbers, popular federated identity providers like Google
 and Twitter, and more.
 • Google Maps APIi: The Google Maps API helps you take the power of Google Maps and put
 it directly on our own application. It lets you add relevant content that is useful to your visitors
-and customize the look and feel of the map to fit with the style of our applicatio
+and customize the look and feel of the map to fit with the style of our application
+
+[image](https://github.com/user-attachments/assets/1a20a232-87ab-40b3-a49f-e53496f476dc)
