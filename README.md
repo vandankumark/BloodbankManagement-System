@@ -14,3 +14,4 @@ it directly on our own application. It lets you add relevant content that is use
 and customize the look and feel of the map to fit with the style of our application
 
 [image](https://github.com/user-attachments/assets/1a20a232-87ab-40b3-a49f-e53496f476dc)
+![image](https://github.com/user-attachments/assets/2da30268-031b-43e8-b9a9-8e8913bc4aea)
